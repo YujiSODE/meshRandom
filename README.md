@@ -7,3 +7,8 @@ GitHub: https://github.com/YujiSODE/meshRandom
 ______
 
 ## 1. Description
+
+## 2. Script
+#### Tcl
+It requires Tcl 8.6+.
+- `meshRandom.tcl`
