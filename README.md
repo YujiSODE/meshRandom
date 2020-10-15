@@ -7,11 +7,20 @@ GitHub: https://github.com/YujiSODE/meshRandom
 ______
 
 ## 1. Description
+Tool that simulates two-dimensional sample distribution based on a sample defined mesh.
+
+### shell
+- `tclsh meshRandom.tcl N xyList;`
+### Tcl
+- `::meshRandom::randoms N xyList;`
+
+  - `$N`: number of random coordinates to return
+  - `$xyList`: a list of xy-coordinate data, and every element is expressed as `x,y`
 
 ## 2. Script
-#### Tcl
-It requires Tcl 8.6+.
 - `meshRandom.tcl`
+
+It requires Tcl 8.6+.
 
 ## 3. Library list
 - Sode, Y. 2018. lSum_min.tcl: https://gist.github.com/YujiSODE/1f9a4e2729212691972b196a76ba9bd0
