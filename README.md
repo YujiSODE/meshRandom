@@ -20,7 +20,7 @@ Tool that simulates two-dimensional sample distribution based on a sample define
   - `$xyList`: a list of xy-coordinate data, and every element is expressed as `x,y`
 
 ## 2. Script
-- `meshRandom.tcl`
+- [`meshRandom.tcl`](meshRandom.tcl)
 
 It requires Tcl 8.6+.
 
