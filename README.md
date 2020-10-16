@@ -6,9 +6,6 @@ GitHub: https://github.com/YujiSODE/meshRandom
 >See LICENSE or http://opensource.org/licenses/mit-license.php  
 ______
 
-## 1. Description
-Tool that simulates two-dimensional sample distribution based on a sample defined mesh.
-
 <figure>
         <img width=900 src="meshRandom_IMG_sampleGraphs.png" alt="meshRandom_IMG_sampleGraphs.png">
         <figcaption>
@@ -20,6 +17,9 @@ Tool that simulates two-dimensional sample distribution based on a sample define
                 <code><i>y</i>^</code> is simulated random coordinates.
         </figcaption>
 </figure>
+
+## 1. Description
+Tool that simulates two-dimensional sample distribution based on a sample defined mesh.
 
 ### shell
 - `tclsh meshRandom.tcl N xyList;`
