@@ -10,7 +10,7 @@ ______
 Tool that simulates two-dimensional sample distribution based on a sample defined mesh.
 
 <figure>
-        <img width=800 src="meshRandom_IMG_sampleGraphs.png" alt="meshRandom_IMG_sampleGraphs.png">
+        <img width=900 src="meshRandom_IMG_sampleGraphs.png" alt="meshRandom_IMG_sampleGraphs.png">
         <figcaption>
                 <b>Figure</b> <b>1.</b> <b>4 sample data set and simulated random coordinates.</b><br>
                 <b>A.</b> data set model: <code><i>y</i>=3.0*<i>x</i>+5.0</code>.<br>
