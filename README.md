@@ -6,10 +6,20 @@ GitHub: https://github.com/YujiSODE/meshRandom
 >See LICENSE or http://opensource.org/licenses/mit-license.php  
 ______
 
+<figure>
+        <img width=900 src="meshRandom_IMG_sampleGraphs.png" alt="meshRandom_IMG_sampleGraphs.png">
+        <figcaption>
+                <b>Figure</b> <b>1.</b> <b>4 sample data set and simulated random coordinates.</b><br>
+                <b>A.</b> data set model: <code><i>y</i>=3.0*<i>x</i>+5.0</code>.<br>
+                <b>B.</b> data set model: <code><i>y</i>=3.0*<i>x</i>+5.0*<i>U</i></code> where <code><i>U</i></code> is random number in <code>(0,1)</code>.<br>
+                <b>C.</b> data set model: <code><i>y</i>=sin(<i>x</i>)</code>.<br>
+                <b>D.</b> data set model: rotational symmetry.<br>
+                <code><i>y</i>^</code> is simulated random coordinates.
+        </figcaption>
+</figure>
+
 ## 1. Description
 Tool that simulates two-dimensional sample distribution based on a sample defined mesh.
-
-<a href="#"><img width=500 src="meshRandom_IMG_sampleGraphs.png" alt="meshRandom_IMG_sampleGraphs.png"></a>
 
 ### shell
 - `tclsh meshRandom.tcl N xyList;`
