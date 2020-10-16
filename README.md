@@ -9,7 +9,7 @@ ______
 ## 1. Description
 Tool that simulates two-dimensional sample distribution based on a sample defined mesh.
 
-<img width=500 src="meshRandom_IMG_sampleGraphs.png" alt="meshRandom_IMG_sampleGraphs.png">
+<a href="#"><img width=500 src="meshRandom_IMG_sampleGraphs.png" alt="meshRandom_IMG_sampleGraphs.png"></a>
 
 ### shell
 - `tclsh meshRandom.tcl N xyList;`
