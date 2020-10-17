@@ -13,7 +13,7 @@ ______
                 <b>A.</b> data set model: <code><i>y</i>=3.0*<i>x</i>+5.0</code>.<br>
                 <b>B.</b> data set model: <code><i>y</i>=3.0*<i>x</i>+5.0*<i>U</i></code> where <code><i>U</i></code> is random number in <code>(0,1)</code>.<br>
                 <b>C.</b> data set model: <code><i>y</i>=sin(<i>x</i>)</code>.<br>
-                <b>D.</b> data set model: <code>(<i>x</i>,<i>y</i>)=(0.25*cos(<i>n</i>*pi/2.0),0.25*sin(<i>n</i>*pi/2.0))</code> where <code><i>n</i>=0,1,2,...</code>.<br>
+                <b>D.</b> data set model: <code>(<i>x</i>,<i>y</i>)=(0.25*cos(<i>n</i>*π/2.0),0.25*sin(<i>n</i>*π/2.0))</code> where <code><i>n</i>=0,1,2,...</code>.<br>
                 <code><i>y</i>^</code> is simulated random coordinates.
         </figcaption>
 </figure>
