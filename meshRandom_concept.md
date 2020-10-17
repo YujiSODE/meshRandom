@@ -6,7 +6,7 @@ GitHub: https://github.com/YujiSODE/meshRandom
 >See LICENSE or http://opensource.org/licenses/mit-license.php  
 ______
 
-# Concept
+## Concept
 <figure>
         <img width=400 src="meshRandom_IMG_conceptIMG.png" alt="meshRandom_IMG_conceptIMG">
         <figcaption>
