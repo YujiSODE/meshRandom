@@ -38,7 +38,7 @@ _P^_ is included within a distribution _P<sub>1</sub>P<sub>2</sub>P<sub>3</sub>P
  <figure>
         <img width=400 src="meshRandom_IMG_conceptIMG.png" alt="meshRandom_IMG_conceptIMG">
         <figcaption>
-                <b>Figure</b> <b>1.</b> Diagram showing concept of <code>meshRandom</code>.<br>
+                <b>Figure</b> <b>2.</b> Diagram showing concept of <code>meshRandom</code>.<br>
                 Filled circles show sample points. Red lines show sample paths <i><code>F<sub>ij</sub></code></i> beteween two sample points <i><code>P<sub>i</sub></code></i> and <i><code>P<sub>j</sub></code></i>.
         <figcaption>
 </figure>
