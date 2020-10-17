@@ -29,11 +29,25 @@ Tool that simulates two-dimensional sample distribution based on a sample define
   - `$N`: number of random coordinates to return
   - `$xyList`: a list of xy-coordinate data, and every element is expressed as `x,y`
 
-## 2. Script
+## 2. Concept
+Supposing that two-dimensional sample distribution is composed of four sample points _P<sub>1</sub>_ to _P<sub>4</sub>_.  
+Sample points _P_ are linked by paths _F_.  
+Random coordinates _P^_ are generated along a path _F<sub>ij</sub>_.  
+_P^_ is included within a distribution _P<sub>1</sub>P<sub>2</sub>P<sub>3</sub>P<sub>4</sub>_.
+
+ <figure>
+        <img width=400 src="meshRandom_IMG_conceptIMG.png" alt="meshRandom_IMG_conceptIMG">
+        <figcaption>
+                <b>Figure</b> <b>1.</b> Diagram showing concept of <code>meshRandom</code>.<br>
+                Filled circles show sample points. Red lines show sample paths <i><code>F<sub>ij</sub></code></i> beteween two sample points <i><code>P<sub>i</sub></code></i> and <i><code>P<sub>j</sub></code></i>.
+        <figcaption>
+</figure>
+
+## 3. Script
 - [`meshRandom.tcl`](meshRandom.tcl)
 
 It requires Tcl 8.6+.
 
-## 3. Library list
+## 4. Library list
 - Sode, Y. 2018. lSum_min.tcl: https://gist.github.com/YujiSODE/1f9a4e2729212691972b196a76ba9bd0
 - Sode, Y. 2018. lPairwise_min.tcl; the MIT License: https://gist.github.com/YujiSODE/0d520f3e178894cd1f2fee407bbd3e16
