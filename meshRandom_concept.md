@@ -7,7 +7,7 @@ GitHub: https://github.com/YujiSODE/meshRandom
 ______
 
 ## Concept
-Two-dimensional sample distribution is composed of four sample points _P<sub>1</sub>_ to _P<sub>4</sub>_.
+Two-dimensional sample distribution is composed of four sample points _P<sub>1</sub>_ to _P<sub>4</sub>_.  
 Sample points _P_ are linked by paths _F_.
 
  <figure>
