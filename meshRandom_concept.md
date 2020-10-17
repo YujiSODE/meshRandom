@@ -9,7 +9,7 @@ ______
 ## Concept
 Supposing that two-dimensional sample distribution is composed of four sample points _P<sub>1</sub>_ to _P<sub>4</sub>_.  
 Sample points _P_ are linked by paths _F_.  
-Random coordinates that are generated along a path _F<sub>ij</sub>_
+Random coordinates _P^_ are generated along a path _F<sub>ij</sub>_.
  <figure>
         <img width=400 src="meshRandom_IMG_conceptIMG.png" alt="meshRandom_IMG_conceptIMG">
         <figcaption>
