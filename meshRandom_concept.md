@@ -7,7 +7,7 @@ GitHub: https://github.com/YujiSODE/meshRandom
 ______
 
 <figure>
-        <img width=800 src="meshRandom_IMG_conceptIMG.png" alt="meshRandom_IMG_conceptIMG">
+        <img width=400 src="meshRandom_IMG_conceptIMG.png" alt="meshRandom_IMG_conceptIMG">
         <figcaption>
                 <b>Figure</b> <b>1.</b> Diagram showing concept of <code>meshRandom</code>.<br>
                 Filled circles show sample points.<br>
