@@ -7,6 +7,7 @@ GitHub: https://github.com/YujiSODE/meshRandom
 ______
 
 ## Concept
+Four sample points \(_P<sub>1</sub>_ to _P<sub>4</sub>_\) are linked with paths
 <figure>
         <img width=400 src="meshRandom_IMG_conceptIMG.png" alt="meshRandom_IMG_conceptIMG">
         <figcaption>
