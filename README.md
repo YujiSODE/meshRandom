@@ -9,7 +9,7 @@ ______
 <figure>
         <img width=900 src="meshRandom_IMG_sampleGraphs.png" alt="meshRandom_IMG_sampleGraphs.png">
         <figcaption>
-                <b>Figure</b> <b>1.</b> <b>4 sample data set and simulated random coordinates.</b><br>
+                <b>Figure</b> <b>1.</b> Four sample data sets and simulated random coordinates.<br>
                 <b>A.</b> data set model: <code><i>y</i>=3.0*<i>x</i>+5.0</code>.<br>
                 <b>B.</b> data set model: <code><i>y</i>=3.0*<i>x</i>+5.0*<i>U</i></code> where <code><i>U</i></code> is random number in <code>(0,1)</code>.<br>
                 <b>C.</b> data set model: <code><i>y</i>=sin(<i>x</i>)</code>.<br>
