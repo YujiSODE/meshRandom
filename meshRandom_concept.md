@@ -8,13 +8,12 @@ ______
 
 ## Concept
 Supposing that two-dimensional sample distribution is composed of four sample points _P<sub>1</sub>_ to _P<sub>4</sub>_.  
-Sample points _P_ are linked by paths _F_.
-
+Sample points _P_ are linked by paths _F_.  
+Random coordinates that are generated along a path _F<sub>ij</sub>_
  <figure>
         <img width=400 src="meshRandom_IMG_conceptIMG.png" alt="meshRandom_IMG_conceptIMG">
         <figcaption>
                 <b>Figure</b> <b>1.</b> Diagram showing concept of <code>meshRandom</code>.<br>
-                Filled circles show sample points.<br>
-                Red lines show sample paths <i><code>F<sub>ij</sub></code></i> beteween two sample points <i><code>P<sub>i</sub></code></i> and <i><code>P<sub>j</sub></code></i>.
+                Filled circles show sample points. Red lines show sample paths <i><code>F<sub>ij</sub></code></i> beteween two sample points <i><code>P<sub>i</sub></code></i> and <i><code>P<sub>j</sub></code></i>.
         <figcaption>
 </figure>
