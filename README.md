@@ -21,9 +21,9 @@ ______
 ## 1. Description
 Tool that simulates two-dimensional sample distribution based on a sample defined mesh.
 
-### shell
+### 1-1. Shell
 - `tclsh meshRandom.tcl N xyList;`
-### Tcl
+### 1-2. Tcl
 - `::meshRandom::randoms N xyList;`
 
   - `$N`: number of random coordinates to return
