@@ -1,7 +1,14 @@
 # Change Log
 ## [Unreleased]
 
-## [Unreleased] - 2020-10-20
+## [1.0] - 2020-10-20
+## Removed
+- [`meshRandom.tcl`] lines 100-102:
+
+    	set e [split [lindex $xyList 0] ,];
+    	#$e is {x1,y1}
+    	#
+
 ## Changed
 - [`README.md`] line 26: `### 1-2. Tcl` 
 - [`README.md`] line 24: `### 1-1. Shell` 
