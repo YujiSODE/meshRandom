@@ -97,9 +97,6 @@ proc ::meshRandom::setMesh {xyList} {
 	#error is returned when size of xy-coordinate data is less than 2
 	if {[llength $xyList]<2} {error "ERROR: size of xy-coordinate data is less than 2"};
 	#
-	set e [split [lindex $xyList 0] ,];
-	#$e is {x1,y1}
-	#
 	#single model: y = a*x+b
 	set dx [expr {double(0)}];
 	set dy [expr {double(0)}];
