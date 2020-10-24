@@ -1,6 +1,7 @@
 # Change Log
 ## [Unreleased]
 
+## Released: [1.0] - 2020-10-24
 ## [1.0] - 2020-10-20
 ## Removed
 - [`meshRandom.tcl`] lines 100-102:
